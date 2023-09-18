@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle Titanic]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment))
+Los datos del proyecto vienen de [La competición Kaggle Speed dating experiment]([https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment])
 
 ## Videos
 
